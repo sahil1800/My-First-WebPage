@@ -1,0 +1,14 @@
+.leftclass ul {
+	float:left;
+	list-style:none;
+}
+.first li {
+    float: left;
+}
+ul.icons {
+    float: right;
+}
+.icons li {
+    float: left;
+    list-style: none;
+}
